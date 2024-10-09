@@ -1,3 +1,3 @@
 abstract class AppImages {
-  static const String logoWhatsapp = 'assets/images/logoWhatsapp.png';
+  static const logoWhatsapp = 'assets/images/logoWhatsapp.png';
 }
